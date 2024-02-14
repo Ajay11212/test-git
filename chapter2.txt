@@ -1,0 +1,1 @@
+Branches serve as an abstraction for the edit/stage/commit process discussed in Git Basics, the first module of this series.
